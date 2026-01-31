@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maya Sahni</h1>
 <h3 align="center">A passionate Generative AI/ML Engineer from India</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://avatars.githubusercontent.com/ermayasahni" width="150" />
-</p>
+</p> -->
 
 
 -  I’m currently working on **Email Spam Detection using NLP & Machine Learning**
